@@ -1,0 +1,7 @@
+*.ml
+*.idea
+*.sonar
+*.DS_Store
+/.idea/
+/target/
+/build/
